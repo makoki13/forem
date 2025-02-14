@@ -1,6 +1,8 @@
 {
     "java.project.sourcePaths": [
         "Proyecto001",
-        ".vscode/CuadroDeMando"
-    ]
+        ".vscode/CuadroDeMando",
+        "CuadroDeMando"
+    ],
+    "java.project.referencedLibraries": []
 }
