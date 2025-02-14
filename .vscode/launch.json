@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CpuDashboard",
+            "request": "launch",
+            "mainClass": "CpuDashboard",
+            "projectName": "forem_8ebc31dc"
+        },
+        {
+            "type": "java",
             "name": "Preguntar",
             "request": "launch",
             "mainClass": "Preguntar",
